@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/kriddy800/AutoBar/issues"
   },
-  "homepage": "https://github.com/kriddy800/AutoBar#readme"
+  "homepage": "https://github.com/kriddy800/AutoBar#readme",
+  "dependencies": {
+    "material-design-icons": "^2.2.3",
+    "material-design-lite": "^1.1.3"
+  }
 }
