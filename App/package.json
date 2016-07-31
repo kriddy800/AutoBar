@@ -1,0 +1,19 @@
+{
+  "name": "autobar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kriddy800/AutoBar.git"
+  },
+  "author": "Kris Dupuis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kriddy800/AutoBar/issues"
+  },
+  "homepage": "https://github.com/kriddy800/AutoBar#readme"
+}
