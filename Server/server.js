@@ -1,12 +1,9 @@
-var express = require('express'),
-    path = require('path');
+var express = require('express');
 
 var app = express();
 
-//TODO serve css
-
+app.use(express.static('../App'));
 app.get('/', function(req, res) {
-    res.sendFile(path.join(__dirname, '../App', 'index.html'));
 })
 
 app.listen(9091);
